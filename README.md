@@ -9,3 +9,5 @@ A cleaned up pdf version of the schematic is attached to this repository. Note t
 Another discrepance is that in my version of the power supply B602D (version A), the diodes CR91-CR92 are connected like Version B schematic.
 
 I've attached the version A and B schematics with the error fixed (the 0-30V and 0-60V jpg files).
+
+Note that when creating the regulator board PCB with same dimensions as the original, extra long pin headers are required for clearance to some of the components on the main board. A modified version of the PCB would be better with a rounded/cut off corner on the side of the pin header connector.
